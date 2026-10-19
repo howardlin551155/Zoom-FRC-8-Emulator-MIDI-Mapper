@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Local archive (not part of the computer-side app)
+_not_needed_to_run/

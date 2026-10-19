@@ -1,0 +1,5 @@
+{
+    "controller_port": "nanoKONTROL2 SLIDER/KNOB",
+    "controller_out_port": "nanoKONTROL2 CTRL",
+    "learn_mode": true
+}
